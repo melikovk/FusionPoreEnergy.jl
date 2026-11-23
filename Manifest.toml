@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.13.4"
+manifest_format = "2.1"
+project_hash = "1a0d07f432549af586b433da5649444c335c96b3"
+
+[[deps.FusionPoreEnergy]]
+path = "."
+uuid = "6c8b3233-320f-4c55-95d6-26322a8a0510"
+version = "1.0.0-DEV"

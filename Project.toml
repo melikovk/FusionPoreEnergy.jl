@@ -1,0 +1,7 @@
+name = "FusionPoreEnergy"
+uuid = "6c8b3233-320f-4c55-95d6-26322a8a0510"
+authors = ["Kamran Melikov <melikovk@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"

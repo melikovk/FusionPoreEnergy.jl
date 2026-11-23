@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+FusionPoreEnergy = "6c8b3233-320f-4c55-95d6-26322a8a0510"
+
+[sources]
+FusionPoreEnergy = {path = ".."}
